@@ -1,10 +1,3 @@
-//
-//  CalculatorUITests.swift
-//  CalculatorUITests
-//
-//  Created by Carlos Yslas Altamirano on 24/06/24.
-//
-
 import XCTest
 
 final class CalculatorUITests: XCTestCase {
